@@ -1,6 +1,6 @@
 This project is a detailed CAD design of a fully functional mechanical clock. It includes all the essential components such as gears, and the clock face, modeled with precision.
 
-Procces of modeling:
+Process of modeling:
 ![Screenshot 2024-08-11 170148](https://github.com/user-attachments/assets/c4a4304a-740a-4291-908c-c4b6c40dfcf4)
 ![Screenshot 2024-08-11 170133](https://github.com/user-attachments/assets/0497a3fd-abb5-4c4d-bf06-ac87edfbc735)
 ![Screenshot 2024-08-11 170118](https://github.com/user-attachments/assets/712fc13e-5eca-47e8-ad47-241ee4f76621)
