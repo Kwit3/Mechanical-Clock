@@ -16,6 +16,5 @@ Procces of modeling:
 ## How to Use
 1. Download the CAD files from the repository.
 2. Open the files in your preferred CAD software (e.g., Onshape, SolidWorks).
-3. Follow the assembly instructions included in the repository to build the clock.
 
 Inspired by this video - https://youtu.be/yfNFbE0ahi0?si=eE5_7Es9zEnOn7KG
