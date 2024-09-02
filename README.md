@@ -1,5 +1,7 @@
 This project is a detailed CAD design of a fully functional mechanical clock. It includes all the essential components such as gears, and the clock face, modeled with precision.
 
+Look at the model here (OnShape) -  https://cad.onshape.com/documents/830868e4e27e04d130dd987c/w/583a0b23888deb319f0e4222/e/d727b61d8cf213dfac829710?renderMode=0&uiState=66d5ed5d2336aa7e8dd3992f
+
 Process of modeling:
 ![Screenshot 2024-08-11 170148](https://github.com/user-attachments/assets/c4a4304a-740a-4291-908c-c4b6c40dfcf4)
 ![Screenshot 2024-08-11 170133](https://github.com/user-attachments/assets/0497a3fd-abb5-4c4d-bf06-ac87edfbc735)
@@ -12,6 +14,12 @@ Process of modeling:
 ![Screenshot 2024-08-11 203829](https://github.com/user-attachments/assets/aca00232-f611-4df1-872b-7b9529895b08)
 ![Screenshot 2024-08-11 190620](https://github.com/user-attachments/assets/e5b91c85-9261-4cf0-8ba8-8fc8bf5bc9d4)
 ![Screenshot 2024-08-11 170513](https://github.com/user-attachments/assets/b02c7e52-0b87-4de9-b8ee-d9d767e8495d)
+
+Final:
+
+![Screenshot 2024-08-25 194616](https://github.com/user-attachments/assets/eef7203f-5898-48a9-964b-74a83ea2703d)
+
+
 
 ## How to Use
 1. Download the CAD files from the repository.
